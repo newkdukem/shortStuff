@@ -1,3 +1,9 @@
+# We have 2 opaque bags, each containing 2 balls.  One bag has 2 black balls and
+# the  other  has  a  black  ball  and  a  white  ball.   You  pick  a  bag  at  random  and
+# then pick one of the balls in that bag at random.  When you look at the ball,
+# it  is  black.   You  now  pick  the  second  ball  from  that  same  bag.   What  is  the
+# probability that this ball is also black?
+
 import random
 
 def random_bag():
